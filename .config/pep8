@@ -1,0 +1,4 @@
+[pep8]
+# E129: PEP8 takes no position. See issue here:
+#     https://github.com/PyCQA/pycodestyle/issues/386
+ignore = E129
